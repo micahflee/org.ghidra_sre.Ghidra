@@ -9,7 +9,6 @@
     ],
     "command": "ghidra",
     "finish-args": [
-        "--share=network",
         "--share=ipc",
         "--socket=x11",
         "--socket=pulseaudio",
